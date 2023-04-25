@@ -1,0 +1,10 @@
+package JDBC;
+
+public class jdbcSelect {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

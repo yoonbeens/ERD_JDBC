@@ -1,0 +1,11 @@
+package JDBC;
+
+public class JDBCInsert {
+
+	public static void main(String[] args) {
+
+		
+
+	}
+
+}
